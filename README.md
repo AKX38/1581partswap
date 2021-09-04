@@ -10,12 +10,15 @@ I have adapted some example code provided by Commodore on the 1581 Test Disk pro
 
 I aim to implement a navigation menu rather than a text prompt to select the next partition.
 
+Current Version: 1.01
+Many thanks to Oziphantom from Lemon64 for suggestions
+
 Files:
 
 partswap1.asm - SEQ file for TMP 1.2, load with [command] + E, readable in github
 
 partswap1.s   - PRG file for TMP 1.2, load with [command] + L
 
-partswap1     - PRG file, Executable
+partswap     - PRG file, Executable
 
 partswap.d64  - D64 disk image containing all three files
