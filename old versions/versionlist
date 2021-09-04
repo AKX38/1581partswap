@@ -1,0 +1,2 @@
+1.00 - Worked but needed optimization
+1.01 - Current: Implemented optimizations suggested by Oziphantom (Lemon64) and added an auto initialize if a partition is unformatted.
