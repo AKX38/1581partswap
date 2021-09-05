@@ -19,6 +19,6 @@ partswap1.asm - SEQ file for TMP 1.2, load with [command] + E, readable in githu
 
 partswap1.s   - PRG file for TMP 1.2, load with [command] + L
 
-partswap     - PRG file, Executable
+partswap1    - PRG file, Executable
 
 partswap.d64  - D64 disk image containing all three files
