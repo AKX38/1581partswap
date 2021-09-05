@@ -10,7 +10,7 @@ I have adapted some example code provided by Commodore on the 1581 Test Disk pro
 
 I aim to implement a navigation menu rather than a text prompt to select the next partition.
 
-Current Version: 1.01
+Current Version: 1.02
 Many thanks to Oziphantom from Lemon64 for suggestions
 
 Files:
